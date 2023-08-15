@@ -16,7 +16,7 @@ Bootstrap
 
 
 ## Wireframe
-The wireframe provided a strategic blueprint, indicating the positioning of elements on the page. By separating layout planning from design choices, we were able to maintain a strong focus on the user experience and information hierarchy.
+The wireframe provided a strategic blueprint, indicating the positioning of elements on the page. By separating layout planning from design choices, It helps us to maintain a strong focus on the user experience and information hierarchy.
 
 ## Getting Started
 To view the landing page, simply open the index.html file in a web browser. You'll be able to see how the wireframe has been transformed into a functional and appealing webpage for the new school.
